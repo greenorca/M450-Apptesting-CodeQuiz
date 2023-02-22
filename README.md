@@ -1,4 +1,4 @@
-# m450-apptesting-quiz
+# M450-Apptesting-Quiz
 
 Dieses Repository enthält ein REACT-basiertes Webinterface (*frontend*) für ein Single-Player Online-Quiz. Die Fragen und Antworten werden in einer DB gespeichert, der Zugriff auf die DB wird über eine Spring-Boot - basierte API ermöglicht (*backend*).
 
